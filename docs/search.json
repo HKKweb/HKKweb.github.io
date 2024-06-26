@@ -1,9 +1,30 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Index",
     "section": "",
-    "text": "Huvudsta Kappsegling & Kanot Klubb [HKKK] har 3 sektioner: - Kappsegling med ILCA / Laser jollar - Kanot verksamhet - Verkstad för byggen och reparationer\nSiten är “statisk” dvs. här finns bara grundläggande information om klubben då övrig kommunikation sker via digitala medier inom respektive verksamhet."
+    "text": "Huvudsta Kappsegling & Kanot Klubb [HKKK] har 3 sektioner:\n+ Kappsegling med ILCA / Laser jollar\n+ Kanot verksamhet\n+ Verkstad för byggen och reparationer\nSiten är “statisk” dvs. här finns bara grundläggande information om klubben då övrig kommunikation sker via digitala medier inom respektive verksamhet."
+  },
+  {
+    "objectID": "kappsegling.html",
+    "href": "kappsegling.html",
+    "title": "Kappsegling",
+    "section": "",
+    "text": "Tisdagskappsegling\nVi seglar ILCA / Laser med valfri rigg på tisdagar och första start går 18:15 (i september 17:45)\nVi seglar 5 korta sprint race med Gate starter och ibland tid start när vi har frivilliga funktionärer.\n\nVi är oftast över 20 deltagare vilket blir intensiva och roliga race.\n\nEfter seglingarna “After Sail”, reder vi ut placeringar, regel tolkningar etc."
+  },
+  {
+    "objectID": "kappsegling.html#verksamhet",
+    "href": "kappsegling.html#verksamhet",
+    "title": "Kappsegling",
+    "section": "",
+    "text": "Tisdagskappsegling\nVi seglar ILCA / Laser med valfri rigg på tisdagar och första start går 18:15 (i september 17:45)\nVi seglar 5 korta sprint race med Gate starter och ibland tid start när vi har frivilliga funktionärer.\n\nVi är oftast över 20 deltagare vilket blir intensiva och roliga race.\n\nEfter seglingarna “After Sail”, reder vi ut placeringar, regel tolkningar etc."
   }
 ]

@@ -3,9 +3,10 @@ title: "Index"
 ---
 
 Huvudsta Kappsegling & Kanot Klubb [HKKK] har 3 sektioner:
-- Kappsegling med ILCA / Laser jollar
-- Kanot verksamhet
-- Verkstad för byggen och reparationer
+
+    + Kappsegling med ILCA / Laser jollar
+    + Kanot verksamhet
+    + Verkstad för byggen och reparationer
 
 Siten är "statisk" dvs. här finns bara grundläggande information om klubben då övrig kommunikation sker via digitala medier inom respektive verksamhet.
 

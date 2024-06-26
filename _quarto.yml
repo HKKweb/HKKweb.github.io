@@ -8,12 +8,11 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - Kappsegling.qmd
+      - kappsegling.qmd
       - kanot.qmd
       - verkstad.qmd
       - medlemskap.qmd
       - kontakt.qmd
-
 format:
   html:
     theme: sandstone
